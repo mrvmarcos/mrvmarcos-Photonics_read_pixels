@@ -29,13 +29,13 @@ The objectives of this lab session are:
 
 The study includes the application of the superposition principle for interference and the Fraunhofer diffraction equation:
 
-\[ d \cdot \sin(\theta) = d \cdot \frac{y}{\sqrt{y^2 + x^2}} = m \cdot \lambda \]
+$$d \cdot \sin(\theta) = d \cdot \frac{y}{\sqrt{y^2 + x^2}} = m \cdot \lambda$$
 
 where:
-- \( d \) is the slit spacing
-- \( \theta \) is the diffraction angle
-- \( m \) is the diffraction maximum
-- \( \lambda \) is the wavelength of light
+- d is the slit spacing
+- $\theta$ is the diffraction angle
+-  m is the diffraction maximum
+- $\lambda$ is the wavelength of light
 
 For simplicity, \( m=1 \) is used, requiring only one calculation for the sine with trigonometry.
 
