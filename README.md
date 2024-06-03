@@ -41,8 +41,8 @@ For simplicity, \( m=1 \) is used, requiring only one calculation for the sine w
 
 Additionally, the ratio of the widths of the central diffraction peak to the central interference fringe is expressed as:
 
-\[ \frac{2a}{b} \]
+$$ \frac{2a}{b} $$
 
-where \( a/b \) is the ratio of slit separation to slit width.
+where a/b is the ratio of slit separation to slit width.
 
 
